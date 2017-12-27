@@ -1,0 +1,8 @@
+C:\Users\uraitzik\source\repos\LoggingLib\LoggingLib\obj\Debug\LoggingLib.csproj.CoreCompileInputs.cache
+C:\Users\uraitzik\source\repos\LoggingLib\LoggingLib\bin\Debug\LoggingLib.dll
+C:\Users\uraitzik\source\repos\LoggingLib\LoggingLib\bin\Debug\LoggingLib.pdb
+C:\Users\uraitzik\source\repos\LoggingLib\LoggingLib\bin\Debug\log4net.dll
+C:\Users\uraitzik\source\repos\LoggingLib\LoggingLib\bin\Debug\log4net.xml
+C:\Users\uraitzik\source\repos\LoggingLib\LoggingLib\obj\Debug\LoggingLib.dll
+C:\Users\uraitzik\source\repos\LoggingLib\LoggingLib\obj\Debug\LoggingLib.pdb
+C:\Users\uraitzik\source\repos\LoggingLib\LoggingLib\obj\Debug\LoggingLib.csprojResolveAssemblyReference.cache
